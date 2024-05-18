@@ -1,0 +1,2 @@
+# shavite
+Shavite Hash Function
